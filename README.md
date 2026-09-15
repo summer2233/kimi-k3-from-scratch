@@ -114,6 +114,7 @@ Configs:
 | [`generate.py`](generate.py) | Greedy / sampling decode |
 | [`load_weights.py`](load_weights.py) | Optional HF tiny load + best-effort key map |
 | [`tests/`](tests/) | Structure and forward checks |
+| [`docs/inference-cost-report.md`](docs/inference-cost-report.md) | Kimi K3 vs DeepSeek V4.1 Flash: FLOPs, state, and inference economics |
 
 ---
 
